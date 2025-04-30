@@ -113,6 +113,38 @@ graph TD
 
 <br>
 
+### 🔢 Modelagem de Dados e Decisões do Dashboard
+
+Esta seção detalha as escolhas estratégicas na modelagem dos dados, criação das views e seleção das métricas para o dashboard.
+
+1- Criação das Views<br>
+As métricas priorizadas refletem os indicadores-chave de segurança:
+
+* Separação dos Dados<br>
+Consolidação de informações multissetoriais (país, defesas, setores, tipo de ataque e vulnerabilidade) em formatos analíticos otimizados.
+
+2- Seleção de Métricas<br>
+As métricas priorizadas refletem os indicadores-chave de segurança:
+
+
+* Taxa de Ataques: Contagem anual de ataques para análise comparativa (crescimento/redução interanual).
+
+* Tempo de Resposta: Média de tempo para resolução de vulnerabilidades.
+
+* Top Ameças: Classificação das ameaças mais frequentes (phishing, malware) para direcionamento de ações.
+<br>
+
+3- Justificativa das Visualizações<br>
+A disposição dos elementos visuais foi pensada para:
+
+* Identificar rapidamente setores e países mais vulneráveis;
+
+* Permitir análise temporal comparativa;
+
+* Destacar as defesas mais eficientes por tipo de ataque.
+
+<br>
+
 ### 🤝 Contribuição
 * Faça um fork do projeto
 
